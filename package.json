@@ -2,12 +2,12 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "backend de Four Parks",
-  "main": "app.js",
+  "main": "Index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "start": "node Index.js"
   },
-  "author": "Sergio Andres Vega",
+  "author": "Anderson Lopez",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
